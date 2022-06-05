@@ -63,3 +63,5 @@ The current firmware is developed in RadioLib 4.6.0.
 The main function is to verify SD card and provide simple Lora reception.
 
 Some SD cards tested are incompatible or have a low success rate, such as the Kingston 8G.
+
+**We provide a compiled UF2 file that you can upload directly. Hold down BOOT and press RST. The RP2040 will convert to a USB drive and send the UF2 file to the USB drive for uploading.**
