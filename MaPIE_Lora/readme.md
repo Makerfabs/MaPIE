@@ -4,11 +4,12 @@
 
 ```c++
 /*
-Version:		V1.0
+Version:		V1.1
 Author:			Vincent
 Create Date:	2022/6/2
 Note:
 				V1.0 Create Project
+				V1.1 Add hardware file
 			
 */
 ```

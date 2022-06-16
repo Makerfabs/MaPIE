@@ -41,7 +41,7 @@ Using library RadioLib at version 4.6.0 in folder: C:\Users\86156\Documents\Ardu
 #define LORA_DIO5 24
 #define LORA_RST 20
 
-#define FREQUENCY 434.0
+#define FREQUENCY 915.0
 #define BANDWIDTH 125.0
 #define SPREADING_FACTOR 9
 #define CODING_RATE 7
