@@ -61,6 +61,8 @@ Wiki Link : []()
 - Install library : Adafruit_GFX library.
 - Install library : Adafruit_SSD1306 library.
 
+![rp2040](md_pic/rp2040.jpg)
+
 Modify pins_Arduino.h
 
 ```c++

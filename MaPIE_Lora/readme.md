@@ -1,4 +1,4 @@
-# Makerfabs MaPIE Lora Radio
+# MaPIE LoRa RP2040
 
 
 
@@ -24,17 +24,27 @@ Note:
 
 
 
-# What is MaPIE Lora Radio
+# MaPIE LoRa RP2040
 
-MaPIE Lora Radio is the first product in the MaPIE series.
+## Introduce
 
-There are onboard Lora modules and Micro SD card slots.
+Makerfabs MaPIE Lora is based on Raspberry Pi PICO RP2040 controller, with integration of flash and Lora RFM98W, to make it a good platform for RP2040 development of Lora applications.
+
+
+
+Product Link ：[MaPIE LoRa RP2040](https://www.makerfabs.com/mapie-lora-rp2040.html) 
+
+Wiki Link : []() 
+
+
 
 ## Feature
 
 - Raspberry RP2040 MCU
 - Lora frequency: 433M/ 868M/ 915M
 - Support Micro SD Card
+- On board Flash: 16MB
+- Power: USB Type-C; battery; On board charger
 
 
 

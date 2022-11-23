@@ -39,7 +39,7 @@ Compared to the traditional Arduino UNO 328P, it has better performance and more
 
 | Name                                                         | Status      |
 | ------------------------------------------------------------ | ----------- |
-| [MaPIE Lora Radio](MaPIE_Lora/)                                      | **Already** |
+| [MaPIE LoRa RP2040](MaPIE_Lora/)                     | **Already** |
 | [MaPIE 0.96 OLED](MaPIE-0.96-OLED/) | Working |
 |                                                              |             |
 
