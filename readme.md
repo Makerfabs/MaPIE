@@ -4,11 +4,13 @@
 
 ```c++
 /*
-Version:		V1.0
+Version:		V2.0
 Author:			Vincent
 Create Date:	2022/6/2
 Note:
-				V1.0 Create Project
+
+2022/11/23		V2.0 Add MaPIE 0.96 OLED
+2022/6/2		V1.0 Create Project
 			
 */
 ```
@@ -38,7 +40,7 @@ Compared to the traditional Arduino UNO 328P, it has better performance and more
 | Name                                                         | Status      |
 | ------------------------------------------------------------ | ----------- |
 | [MaPIE Lora Radio](MaPIE_Lora/)                                      | **Already** |
-|                      |  |
+| [MaPIE 0.96 OLED](MaPIE-0.96-OLED/) | Working |
 |                                                              |             |
 
 
