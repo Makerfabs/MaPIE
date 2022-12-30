@@ -19,7 +19,7 @@ Note:
 
 [Makerfabs home page](https://www.makerfabs.com/)
 
-[Makerfabs Wiki](https://makerfabs.com/wiki/index.php?title=Main_Page)
+[Makerfabs Wiki](https://wiki.makerfabs.com/)
 
 
 
@@ -27,18 +27,22 @@ Note:
 
 ## Intruduce
 
+Product Link ：[MaPIE RP2040 0.96" OLED](https://www.makerfabs.com/mapie-rp2040-0-96-inch-oled.html) 
 
+Wiki Link : [MaPIE RP2040 0.96" OLED](https://wiki.makerfabs.com/MaPIE_RP2040_0.96_OLED.html) 
 
-Product Link ：[]() 
-
-Wiki Link : []() 
-
+This MaPIE RP2040 OLED is a low-cost, high-performance Pico-like MCU board with flexible digital interfaces. It is based on Raspberry Pi's RP2040 microcontroller chip, as same as that on Raspberry Pi Pico. Users can develop applications based on Raspberry Pi's C/C++ SDK, or the MicroPython/ Arduino.
 
 
 
 ## Feature
 
-
+- P2040 microcontroller Dual-core Arm Cortex M0+ processor, flexible clock running up to 133 MHz
+- 16MB on-board Flash memory
+- USB-C connector
+- 0.96" 128*64 OLED
+- Lithium battery connector/ charge
+- Same pins breakout as Pico: 26 x multi-function GPIO pins; 2 x SPI, 2 x I2C, 2 x UART, 3 x 12-bit ADC, 16 x controllable PWM channels
 
 
 ### Front:

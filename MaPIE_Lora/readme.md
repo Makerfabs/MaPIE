@@ -20,7 +20,7 @@ Note:
 
 [Makerfabs home page](https://www.makerfabs.com/)
 
-[Makerfabs Wiki](https://makerfabs.com/wiki/index.php?title=Main_Page)
+[Makerfabs Wiki](https://wiki.makerfabs.com/)
 
 
 
@@ -28,13 +28,11 @@ Note:
 
 ## Introduce
 
-Makerfabs MaPIE Lora is based on Raspberry Pi PICO RP2040 controller, with integration of flash and Lora RFM98W, to make it a good platform for RP2040 development of Lora applications.
-
-
-
 Product Link ：[MaPIE LoRa RP2040](https://www.makerfabs.com/mapie-lora-rp2040.html) 
 
-Wiki Link : []() 
+Wiki Link : [MaPIE LoRa RP2040](https://wiki.makerfabs.com/MaPIE_LoRa_RP2040.html) 
+
+Makerfabs MaPIE Lora is based on Raspberry Pi PICO RP2040 controller, with integration of flash and Lora RFM98W, to make it a good platform for RP2040 development of Lora applications.
 
 
 
@@ -45,6 +43,14 @@ Wiki Link : []()
 - Support Micro SD Card
 - On board Flash: 16MB
 - Power: USB Type-C; battery; On board charger
+
+### Front:
+
+![front](md_pic/front.jpg)
+
+### Back:
+
+![back](md_pic/back.jpg)
 
 
 
